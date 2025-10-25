@@ -58,19 +58,15 @@ The valid apps, by contrast, showed stable, healthy, and low-risk metrics throug
 ## **How to Reproduce this Analysis**
 
 1. Clone this repository:
-
 git clone \[https://github.com/YOUR\_USERNAME/YOUR\_REPO\_NAME.git\](https://github.com/YOUR\_USERNAME/YOUR\_REPO\_NAME.git)  
 cd YOUR\_REPO\_NAME
 
-2.   
-3. Install the required libraries:
-
+2.   Install the required libraries:
 pip install \-r requirements.txt
 
-4.   
-5. Open the Jupyter Notebook to review the code:
-
+   
+3. Open the Jupyter Notebook to review the code:
 jupyter notebook ivt\_analysis.ipynb
 
-6. 
+
 
